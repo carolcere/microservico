@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "microservico"
+		},
+		{
+			"path": "eureka-server"
+		},
+		{
+			"path": "zuul-server"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
